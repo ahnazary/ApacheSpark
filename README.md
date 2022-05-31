@@ -1,4 +1,4 @@
-## Brief explanation about project requirements and functions<br/> <br/>
+## Brief explanation about project's requirements and functions<br/> <br/>
 ------------------------------------------------------
 * ### Required services:
 
